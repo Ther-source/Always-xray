@@ -8,23 +8,8 @@
 
 1. 连接**SSH**，执行以下命令
 
-### vmess
-
 ```shell
-wget -N https://ghproxy.com/https://raw.githubusercontent.com/Ther-source/Always-xray/main/vmess.sh && chmod +x ./vmess.sh
-```
-
-### vless
-
-```shell
-wget -N https://raw.githubusercontent.com/Misaka-blog/AX/main/vless.sh && chmod +x ./vless.sh
-```
-
-### trojan
-
-```shell
-wget -N https://raw.githubusercontent.com/Misaka-blog/AX/main/trojan.sh && chmod +x ./trojan.sh
-```
+git clone https://github.com/Ther-source/Always-xray.git
 
 2. 修改网站空间配置
 
