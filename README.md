@@ -11,7 +11,7 @@
 ### vmess
 
 ```shell
-wget -N https://raw.githubusercontent.com/Misaka-blog/AX/main/vmess.sh && chmod +x ./vmess.sh
+wget -N https://ghproxy.com/https://raw.githubusercontent.com/Ther-source/Always-xray/main/vmess.sh && chmod +x ./vmess.sh
 ```
 
 ### vless
